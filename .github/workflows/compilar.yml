@@ -1,4 +1,4 @@
-name: Compilar Control Stock Boliche V3
+name: Compilar Control Stock Boliche V4
 
 on:
   push:
@@ -53,4 +53,3 @@ jobs:
         with:
           name: ControlStockBoliche-Windows
           path: ControlStockBoliche-Windows.zip
-
